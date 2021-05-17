@@ -4,3 +4,4 @@ Lectures Completed on 17/5/21:
 * Introduction
 * What Changed?
 * Preparing the Project
+* More Information & Updating the Project Dependencies
