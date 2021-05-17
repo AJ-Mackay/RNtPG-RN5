@@ -5,3 +5,4 @@ Lectures Completed on 17/5/21:
 * What Changed?
 * Preparing the Project
 * More Information & Updating the Project Dependencies
+* Moving from the "Registry-like" to the "Component-based" Navigation Config
