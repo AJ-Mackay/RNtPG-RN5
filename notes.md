@@ -16,3 +16,4 @@ Lectures Completed on 18/5/21:
 * Extracting Screen Params
 * Setting Screen Options Dynamically
 * Remaining Migration Steps & Roundup
+* A Summary of all Important Changes
