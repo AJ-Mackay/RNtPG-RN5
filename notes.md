@@ -11,3 +11,4 @@ Lectures Completed on 17/5/21:
 * Migrating the Drawer Navigation
 * Replacing the "Switch" Navigator & Auth Flow
 * Logout & Further Fixes / Adjustments
+* Extracting Screen Params
