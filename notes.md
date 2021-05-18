@@ -8,3 +8,4 @@ Lectures Completed on 17/5/21:
 * Moving from the "Registry-like" to the "Component-based" Navigation Config
 * First Migration Steps
 * Converting More Stack Navigators to the New Config
+* Migrating the Drawer Navigation
