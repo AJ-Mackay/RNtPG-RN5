@@ -15,3 +15,4 @@ Lectures Completed on 18/5/21:
 * Logout & Further Fixes / Adjustments
 * Extracting Screen Params
 * Setting Screen Options Dynamically
+* Remaining Migration Steps & Roundup
