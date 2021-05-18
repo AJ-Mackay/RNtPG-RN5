@@ -9,3 +9,4 @@ Lectures Completed on 17/5/21:
 * First Migration Steps
 * Converting More Stack Navigators to the New Config
 * Migrating the Drawer Navigation
+* Replacing the "Switch" Navigator & Auth Flow
