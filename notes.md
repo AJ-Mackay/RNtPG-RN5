@@ -7,8 +7,11 @@ Lectures Completed on 17/5/21:
 * More Information & Updating the Project Dependencies
 * Moving from the "Registry-like" to the "Component-based" Navigation Config
 * First Migration Steps
+
+Lectures Completed on 18/5/21:
 * Converting More Stack Navigators to the New Config
 * Migrating the Drawer Navigation
 * Replacing the "Switch" Navigator & Auth Flow
 * Logout & Further Fixes / Adjustments
 * Extracting Screen Params
+* Setting Screen Options Dynamically
