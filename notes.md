@@ -17,3 +17,6 @@ Lectures Completed on 18/5/21:
 * Setting Screen Options Dynamically
 * Remaining Migration Steps & Roundup
 * A Summary of all Important Changes
+
+Lectures Completed on 24/5/21:
+* Adding Push Notifications to the Shop App - Part 1
